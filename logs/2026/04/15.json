@@ -1,7 +1,7 @@
 {
   "date": "2026-04-15",
-  "syncedAt": "2026-04-15T07:34:06.295Z",
-  "eventCount": 282,
+  "syncedAt": "2026-04-15T08:35:42.752Z",
+  "eventCount": 296,
   "events": [
     {
       "eventId": "2839950f-bfa6-49d1-ab17-d77ddfadba75",
@@ -3386,6 +3386,174 @@
       "linesRemoved": 0,
       "languageId": "dart",
       "sessionId": "9f887f67-5e18-4371-a766-3307a9999b96"
+    },
+    {
+      "eventId": "e9c43d5c-0e7f-4263-89e5-59ebea8516de",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/reporting_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:36:03.565Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cc46ffc2-1001-47c1-b404-fa09f3faa5b9"
+    },
+    {
+      "eventId": "99bfba19-01fd-48d2-8f13-02e56a533915",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/reporting_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:36:03.568Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cc46ffc2-1001-47c1-b404-fa09f3faa5b9"
+    },
+    {
+      "eventId": "41625a82-bb5c-429f-821a-c3326ba0b938",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/api/gemini_flash.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:39:24.724Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "62617eae-6f2b-49e0-b5bd-967c5973a37e"
+    },
+    {
+      "eventId": "5c2a3947-8e7f-4732-902a-e291e420853d",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/api/gemini_flash.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:39:24.725Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "62617eae-6f2b-49e0-b5bd-967c5973a37e"
+    },
+    {
+      "eventId": "4219ffd1-6b33-4719-8a2d-c4622c03fc4f",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:43:19.931Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "17d93cca-f02c-4f2f-8622-80a5956443fe",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:43:19.933Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "4a9be892-61e2-49ba-9fc3-61c40f4caaf0",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/duplicate_remover.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:43:21.617Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "6d173e83-a860-4762-b664-550d4c1ecc9f",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/duplicate_remover.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:43:21.617Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "2cff68a2-4ea4-4d66-96b6-60f3edc8b1ca",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:45:02.167Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "7efcc8d8-5712-4542-848c-c8a8d0aa7689",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:45:02.169Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "b77d91f0-c103-43d6-9479-d13109519167",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:45:07.663Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "b10e4a0c-a4d0-46cf-80cc-1182c550a7cf",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:45:07.664Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "58d444bc-bb96-4de3-9864-254bec931efd",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:45:18.273Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
+    },
+    {
+      "eventId": "639835ca-8155-4060-8f68-4ccc3796af79",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-15T07:45:18.275Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "cb519c8c-f2ce-4ca6-998e-1ef8e20606e0"
     }
   ]
 }
