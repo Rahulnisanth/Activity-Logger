@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-16",
+  "syncedAt": "2026-04-16T11:09:37.164Z",
+  "eventCount": 2,
+  "events": [
+    {
+      "eventId": "39543845-2c43-407d-af7b-47fbc99ea119",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/file_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-16T09:34:01.579Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "a3f868ce-0ec9-4779-b0c3-cf5666126aa9"
+    },
+    {
+      "eventId": "7b239a6c-e2e8-42cd-9fa5-470f7d0c0a7e",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/Hackathon/localize_kit/lib/src/utils/translation_utils.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/Hackathon/localize_kit",
+      "repoName": "ai_localizer",
+      "timestamp": "2026-04-16T09:34:02.505Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "a3f868ce-0ec9-4779-b0c3-cf5666126aa9"
+    }
+  ]
+}
